@@ -6,3 +6,7 @@ form.addEventListener("submit", function (event) {
     console.log(event);
 })
 
+const generateTask = function () {
+    
+}
+
